@@ -22,6 +22,8 @@
 .env.production.local
 .env
 
+/src/utils/cofig
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
